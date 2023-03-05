@@ -1,0 +1,1192 @@
+{
+    "ncr": [
+        {
+          "name": "NCR-PNB",
+          "totalSite": "188",
+          "live_site": "100",
+          "unlive_site": "88",
+          "nc_30": "10",
+          "openedTickets": "1000",
+          "closedTickets": "5000",
+          "reports":[
+            {
+                "bank":"NCR-PNB",
+                "subject":"NCR_PNB | Email - 1",
+                "atTime":"2022-03-20 00:21:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-PNB",
+                "subject":"NCR_PNB | Email - 2",
+                "atTime":"2022-03-20 01:06:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-PNB",
+                "subject":"NCR_PNB | Email - 3",
+                "atTime":"2022-03-20 04:01:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-PNB",
+                "subject":"NCR_PNB | Email - 4",
+                "atTime":"2022-03-20 04:01:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-PNB",
+                "subject":"NCR_PNB | Email - 3",
+                "atTime":"2022-03-20 00:01:00",
+                "status":"Mail Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-PNB",
+                "sitename":"PNB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-PNB",
+                "sitename":"PNB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-PNB",
+                "sitename":"PNB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-PNB",
+                "sitename":"PNB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-PNB",
+                "sitename":"PNB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-PNB",
+                "eventId":"201",
+                "sitename":"PNB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-PNB",
+                "eventId":"202",
+                "sitename":"PNB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-PNB",
+                "eventId":"203",
+                "sitename":"PNB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-PNB",
+                "eventId":"204",
+                "sitename":"PNB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-PNB",
+                "eventId":"205",
+                "sitename":"PNB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-SBI",
+          "totalSite": "188",
+          "live_site": "88",
+          "unlive_site": "100",
+          "nc_30": "20",
+          "openedTickets": "2000",
+          "closedTickets": "5000",
+          "reports" : [
+            {
+              "bank": "NCR-SBI",
+              "subject": "NCR SBI | Email - 1",
+              "atTime": "2022-03-15 00:02:00",
+              "status": "Mail Sent"
+            },
+            {
+              "bank": "NCR-SBI",
+              "subject": "NCR SBI | Email - 2",
+              "atTime": "2022-03-15 00:08:00",
+              "status": "Mail Sent"
+            },
+            {
+              "bank": "NCR-SBI",
+              "subject": "NCR SBI | Email - 3",
+              "atTime": "2022-03-15 00:48:00",
+              "status": "Mail Not Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-SBI",
+                "sitename":"SBI - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-SBI",
+                "sitename":"SBI - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-SBI",
+                "sitename":"SBI - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-SBI",
+                "sitename":"SBI - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-SBI",
+                "sitename":"SBI - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-SBI",
+                "eventId":"201",
+                "sitename":"SBI - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-SBI",
+                "eventId":"202",
+                "sitename":"SBI - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-SBI",
+                "eventId":"203",
+                "sitename":"SBI - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-SBI",
+                "eventId":"204",
+                "sitename":"SBI - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-SBI",
+                "eventId":"205",
+                "sitename":"SBI - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-LVB",
+          "totalSite": "188",
+          "live_site": "100",
+          "unlive_site": "88",
+          "nc_30": "30",
+          "openedTickets": "3000",
+          "closedTickets": "5000",
+          "reports" : [
+            {
+              "bank": "NCR-LVB",
+              "subject": "NCR LVB | Email - 1",
+              "atTime": "2022-03-15 00:02:00",
+              "status": "Mail Not Sent"
+            },
+            {
+              "bank": "NCR-LVB",
+              "subject": "NCR LVB | Email - 2",
+              "atTime": "2022-03-15 00:08:00",
+              "status": "File Missing"
+            },
+            {
+              "bank": "NCR-LVB",
+              "subject": "NCR LVB | Email - 3",
+              "atTime": "2022-03-15 00:48:00",
+              "status": "Mail Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-LVB",
+                "sitename":"LVB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-LVB",
+                "sitename":"LVB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-LVB",
+                "sitename":"LVB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-LVB",
+                "sitename":"LVB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-LVB",
+                "sitename":"LVB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-LVB",
+                "eventId":"201",
+                "sitename":"LVB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-LVB",
+                "eventId":"202",
+                "sitename":"LVB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-LVB",
+                "eventId":"203",
+                "sitename":"LVB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-LVB",
+                "eventId":"204",
+                "sitename":"LVB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-LVB",
+                "eventId":"205",
+                "sitename":"LVB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-ICICI",
+          "totalSite": "188",
+          "live_site": "88",
+          "unlive_site": "100",
+          "nc_30": "40",
+          "openedTickets": "4000",
+          "closedTickets": "5000",
+          "reports" : [
+            {
+              "bank": "NCR-ICICI",
+              "subject": "NCR ICICI | Email - 1",
+              "atTime": "2022-03-15 00:02:00",
+              "status": "Mail Sent"
+            },
+            {
+              "bank": "NCR-ICICI",
+              "subject": "NCR ICICI | Email - 2",
+              "atTime": "2022-03-15 00:08:00",
+              "status": "Mail Not Sent"
+            },
+            {
+              "bank": "NCR-ICICI",
+              "subject": "NCR ICICI | Email - 3",
+              "atTime": "2022-03-15 00:48:00",
+              "status": "Mail Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-ICICI",
+                "sitename":"ICICI - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "sitename":"ICICI - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "sitename":"ICICI - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "sitename":"ICICI - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "sitename":"ICICI - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-ICICI",
+                "eventId":"201",
+                "sitename":"ICICI - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "eventId":"202",
+                "sitename":"ICICI - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "eventId":"203",
+                "sitename":"ICICI - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "eventId":"204",
+                "sitename":"ICICI - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-ICICI",
+                "eventId":"205",
+                "sitename":"ICICI - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-KVB",
+          "totalSite": "188",
+          "live_site": "100",
+          "unlive_site": "88",
+          "nc_30": "10",
+          "openedTickets": "1000",
+          "closedTickets": "5000",
+          "reports" : [
+            {
+              "bank": "NCR-KVB",
+              "subject": "NCR KVB | Email - 1",
+              "atTime": "2022-03-15 00:02:00",
+              "status": "File Missing"
+            },
+            {
+              "bank": "NCR-KVB",
+              "subject": "NCR KVB | Email - 2",
+              "atTime": "2022-03-15 00:08:00",
+              "status": "Mail Sent"
+            },
+            {
+              "bank": "NCR-KVB",
+              "subject": "NCR KVB | Email - 3",
+              "atTime": "2022-03-15 00:48:00",
+              "status": "Mail Not Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-KVB",
+                "sitename":"KVB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-KVB",
+                "sitename":"KVB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-KVB",
+                "sitename":"KVB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-KVB",
+                "sitename":"KVB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-KVB",
+                "sitename":"KVB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-KVB",
+                "eventId":"201",
+                "sitename":"KVB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-KVB",
+                "eventId":"202",
+                "sitename":"KVB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-KVB",
+                "eventId":"203",
+                "sitename":"KVB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-KVB",
+                "eventId":"204",
+                "sitename":"KVB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-KVB",
+                "eventId":"205",
+                "sitename":"KVB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-CUB",
+          "totalSite": "188",
+          "live_site": "88",
+          "unlive_site": "100",
+          "nc_30": "20",
+          "openedTickets": "2000",
+          "closedTickets": "5000",
+          "reports" : [
+            {
+              "bank": "NCR-CUB",
+              "subject": "NCR CUB | Email - 1",
+              "atTime": "2022-03-15 00:02:00",
+              "status": "Mail Not Sent"
+            },
+            {
+              "bank": "NCR-CUB",
+              "subject": "NCR CUB | Email - 2",
+              "atTime": "2022-03-15 00:08:00",
+              "status": "Mail Sent"
+            },
+            {
+              "bank": "NCR-CUB",
+              "subject": "NCR CUB | Email - 3",
+              "atTime": "2022-03-15 00:48:00",
+              "status": "Mail Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-CUB",
+                "sitename":"CUB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-CUB",
+                "sitename":"CUB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-CUB",
+                "sitename":"CUB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-CUB",
+                "sitename":"CUB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-CUB",
+                "sitename":"CUB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-CUB",
+                "eventId":"201",
+                "sitename":"CUB - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-CUB",
+                "eventId":"202",
+                "sitename":"CUB - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-CUB",
+                "eventId":"203",
+                "sitename":"CUB - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-CUB",
+                "eventId":"204",
+                "sitename":"CUB - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-CUB",
+                "eventId":"205",
+                "sitename":"CUB - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-IDBI",
+          "totalSite": "188",
+          "live_site": "100",
+          "unlive_site": "88",
+          "nc_30": "30",
+          "openedTickets": "3000",
+          "closedTickets": "5000",
+          "reports" : [
+            {
+              "bank": "NCR-IDBI",
+              "subject": "NCR IDBI | Email - 1",
+              "atTime": "2022-03-15 00:02:00",
+              "status": "Mail Sent"
+            },
+            {
+              "bank": "NCR-IDBI",
+              "subject": "NCR IDBI | Email - 2",
+              "atTime": "2022-03-15 00:08:00",
+              "status": "Mail Not Sent"
+            },
+            {
+              "bank": "NCR-IDBI",
+              "subject": "NCR IDBI | Email - 3",
+              "atTime": "2022-03-15 00:48:00",
+              "status": "File Missing"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-IDBI",
+                "sitename":"IDBI - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "sitename":"IDBI - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "sitename":"IDBI - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "sitename":"IDBI - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "sitename":"IDBI - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-IDBI",
+                "eventId":"201",
+                "sitename":"IDBI - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "eventId":"202",
+                "sitename":"IDBI - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "eventId":"203",
+                "sitename":"IDBI - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "eventId":"204",
+                "sitename":"IDBI - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-IDBI",
+                "eventId":"205",
+                "sitename":"IDBI - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        },
+        {
+          "name": "NCR-YESBANK",
+          "totalSite": "188",
+          "live_site": "88",
+          "unlive_site": "100",
+          "nc_30": "40",
+          "openedTickets": "4000",
+          "closedTickets": "5000",
+          "reports":[
+            {
+                "bank":"NCR-YESBANK",
+                "subject":"NCR_YESBANK | Email - 1",
+                "atTime":"2022-03-20 00:21:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "subject":"NCR_YESBANK | Email - 2",
+                "atTime":"2022-03-20 01:06:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "subject":"NCR_YESBANK | Email - 3",
+                "atTime":"2022-03-20 04:01:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "subject":"NCR_YESBANK | Email - 4",
+                "atTime":"2022-03-20 04:01:00",
+                "status":"Mail Sent"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "subject":"NCR_YESBANK | Email - 3",
+                "atTime":"2022-03-20 00:01:00",
+                "status":"Mail Sent"
+            }
+          ],
+          "liveSites":[
+            {
+                "bank":"NCR-YESBANK",
+                "sitename":"YESBANK - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"KL",
+                "pincode":"12201",
+                "installedDate":"2021-06-07 22:57:31",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "sitename":"YESBANK - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"KL",
+                "pincode":"",
+                "installedDate":"2021-09-24 18:58:57",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "sitename":"YESBANK - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"BH",
+                "pincode":"",
+                "installedDate":"2021-09-30 11:24:36",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "sitename":"YESBANK - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"RJ",
+                "pincode":"33240",
+                "installedDate":"2021-09-25 23:01:42",
+                "status":"Live"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "sitename":"YESBANK - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"TN",
+                "pincode":"22602",
+                "installedDate":"2021-09-28 13:49:14",
+                "status":"Live"
+            }
+          ],
+          "nc30Sites":[
+            {
+                "bank":"NCR-YESBANK",
+                "eventId":"201",
+                "sitename":"YESBANK - 101",
+                "mcuid":"101",
+                "location":"Street - 1",
+                "state":"TN",
+                "pincode":"23210",
+                "installedDate":"2022-02-10 16:39:57",
+                "openedOn":"2022-03-23 17:52:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "eventId":"202",
+                "sitename":"YESBANK - 102",
+                "mcuid":"102",
+                "location":"Street - 2",
+                "state":"TN",
+                "pincode":"20320",
+                "installedDate":"2021-10-27 17:54:42",
+                "openedOn":"2022-03-23 17:51:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "eventId":"203",
+                "sitename":"YESBANK - 103",
+                "mcuid":"103",
+                "location":"Street - 3",
+                "state":"KL",
+                "pincode":"14140",
+                "installedDate":"2021-12-24 17:42:26",
+                "openedOn":"2022-03-23 17:48:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "eventId":"204",
+                "sitename":"YESBANK - 104",
+                "mcuid":"104",
+                "location":"Street - 4",
+                "state":"TN",
+                "pincode":"20130",
+                "installedDate":"2021-10-19 19:36:35",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            },
+            {
+                "bank":"NCR-YESBANK",
+                "eventId":"205",
+                "sitename":"YESBANK - 105",
+                "mcuid":"105",
+                "location":"Street - 5",
+                "state":"KN",
+                "pincode":"59000",
+                "installedDate":"2022-02-03 10:18:16",
+                "openedOn":"2022-03-23 17:45:00",
+                "status":"UnLive"
+            }
+        ]
+        }
+    ],
+    "reports" : [
+        {
+          "bank": "NCR-PNB",
+          "subject": "NCR-PNB | Email - 1",
+          "atTime": "2022-03-15 00:02:00",
+          "status": "Mail Sent"
+        },
+        {
+          "bank": "NCR-IDBI",
+          "subject": "NCR IDBI | Email - 2",
+          "atTime": "2022-03-15 00:08:00",
+          "status": "Mail Not Sent"
+        },
+        {
+          "bank": "NCR-ICICI",
+          "subject": "NCR IDBI | Email - 3",
+          "atTime": "2022-03-15 00:48:00",
+          "status": "File Missing"
+        }
+    ]
+}

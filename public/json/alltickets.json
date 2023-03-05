@@ -1,0 +1,24 @@
+{
+  "banktickets": [
+    {
+      "name": "SOS Ticket",
+      "priority": "P1",
+      "count": "50"
+    },
+    {
+      "name": "Critical Ticket",
+      "priority": "P2",
+      "count": "100"
+    },
+    {
+      "name": "Medium Ticket",
+      "priority": "P3",
+      "count": "150"
+    },
+    {
+      "name": "Low Ticket",
+      "priority": "P4",
+      "count": "200"
+    }
+  ]
+}

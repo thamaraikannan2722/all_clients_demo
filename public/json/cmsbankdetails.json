@@ -1,0 +1,294 @@
+{
+    "cms":[
+       {
+          "name":"CMS-ICICI",
+          "totalSite":"188",
+          "live_site":"100",
+          "nc_30":"10",
+          "openedTickets":"1000",
+          "closedTickets":"5000"
+       },
+       {
+          "name":"CMS-HDFC",
+          "totalSite":"188",
+          "live_site":"88",
+          "nc_30":"20",
+          "openedTickets":"2000",
+          "closedTickets":"5000"
+       }
+    ],
+    "reports":[
+       {
+          "bank":"CMS-ICICI",
+          "subject":"CMS_ICICI | Email - 1",
+          "atTime":"2022-03-20 00:21:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "subject":"CMS_ICICI | Email - 2",
+          "atTime":"2022-03-20 01:06:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "subject":"CCMS_ICICI | Email - 3",
+          "atTime":"2022-03-20 04:01:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "subject":"CMS_ICICI | Email - 4",
+          "atTime":"2022-03-20 04:01:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "subject":"CMS_ICICI | Email - 5",
+          "atTime":"2022-03-20 00:01:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "subject":"CMS_HDFC | Email - 1",
+          "atTime":"2022-03-15 00:02:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "subject":"CMS_HDFC | Email - 2",
+          "atTime":"2022-03-15 00:08:00",
+          "status":"Mail Sent"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "subject":"CMS_HDFC | Email - 3",
+          "atTime":"2022-03-15 00:48:00",
+          "status":"Mail Not Sent"
+       }
+    ],
+    "liveSites":[
+       {
+          "bank":"CMS-ICICI",
+          "sitename":"ICICI-101",
+          "mcuid":"101",
+          "location":"Street - 1",
+          "state":"TN",
+          "pincode":"12201",
+          "installedDate":"2021-06-07 22:57:31",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "sitename":"ICICI-102",
+          "mcuid":"102",
+          "location":"Street - 2",
+          "state":"TN",
+          "pincode":"",
+          "installedDate":"2021-09-24 18:58:57",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "sitename":"ICICI-103",
+          "mcuid":"103",
+          "location":"Street - 3",
+          "state":"KL",
+          "pincode":"",
+          "installedDate":"2021-09-30 11:24:36",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "sitename":"ICICI-104",
+          "mcuid":"104",
+          "location":"Street - 4",
+          "state":"KL",
+          "pincode":"33240",
+          "installedDate":"2021-09-25 23:01:42",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "sitename":"ICICI-105",
+          "mcuid":"105",
+          "location":"Street - 5",
+          "state":"TN",
+          "pincode":"22602",
+          "installedDate":"2021-09-28 13:49:14",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "sitename":"HDFC-101",
+          "mcuid":"101",
+          "location":"Street - 1",
+          "state":"TN",
+          "pincode":"12201",
+          "installedDate":"2021-06-07 22:57:31",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "sitename":"HDFC-102",
+          "mcuid":"102",
+          "location":"Street - 2",
+          "state":"KL",
+          "pincode":"",
+          "installedDate":"2021-09-24 18:58:57",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "sitename":"HDFC-103",
+          "mcuid":"103",
+          "location":"Street - 3",
+          "state":"BH",
+          "pincode":"",
+          "installedDate":"2021-09-30 11:24:36",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "sitename":"HDFC-104",
+          "mcuid":"104",
+          "location":"Street - 4",
+          "state":"RJ",
+          "pincode":"33240",
+          "installedDate":"2021-09-25 23:01:42",
+          "status":"Live"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "sitename":"HDFC-105",
+          "mcuid":"105",
+          "location":"Street - 5",
+          "state":"TN",
+          "pincode":"22602",
+          "installedDate":"2021-09-28 13:49:14",
+          "status":"Live"
+       }
+    ],
+    "nc30Sites":[
+       {
+          "bank":"CMS-ICICI",
+          "eventId":"201",
+          "sitename":"ICICI - 101",
+          "mcuid":"101",
+          "location":"Street - 1",
+          "state":"TN",
+          "pincode":"23210",
+          "installedDate":"2022-02-10 16:39:57",
+          "openedOn":"2022-03-23 17:52:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "eventId":"202",
+          "sitename":"ICICI - 102",
+          "mcuid":"102",
+          "location":"Street - 2",
+          "state":"TN",
+          "pincode":"20320",
+          "installedDate":"2021-10-27 17:54:42",
+          "openedOn":"2022-03-23 17:51:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "eventId":"203",
+          "sitename":"ICICI - 103",
+          "mcuid":"103",
+          "location":"Street - 3",
+          "state":"KL",
+          "pincode":"14140",
+          "installedDate":"2021-12-24 17:42:26",
+          "openedOn":"2022-03-23 17:48:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "eventId":"204",
+          "sitename":"ICICI - 104",
+          "mcuid":"104",
+          "location":"Street - 4",
+          "state":"TN",
+          "pincode":"20130",
+          "installedDate":"2021-10-19 19:36:35",
+          "openedOn":"2022-03-23 17:45:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-ICICI",
+          "eventId":"205",
+          "sitename":"ICICI - 105",
+          "mcuid":"105",
+          "location":"Street - 5",
+          "state":"KN",
+          "pincode":"59000",
+          "installedDate":"2022-02-03 10:18:16",
+          "openedOn":"2022-03-23 17:45:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "eventId":"201",
+          "sitename":"HDFC - 101",
+          "mcuid":"101",
+          "location":"Street - 1",
+          "state":"TN",
+          "pincode":"23210",
+          "installedDate":"2022-02-10 16:39:57",
+          "openedOn":"2022-03-23 17:52:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "eventId":"202",
+          "sitename":"HDFC - 102",
+          "mcuid":"102",
+          "location":"Street - 2",
+          "state":"TN",
+          "pincode":"20320",
+          "installedDate":"2021-10-27 17:54:42",
+          "openedOn":"2022-03-23 17:51:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "eventId":"203",
+          "sitename":"HDFC - 103",
+          "mcuid":"103",
+          "location":"Street - 3",
+          "state":"KL",
+          "pincode":"14140",
+          "installedDate":"2021-12-24 17:42:26",
+          "openedOn":"2022-03-23 17:48:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"CMS-HDFC",
+          "eventId":"204",
+          "sitename":"HDFC - 104",
+          "mcuid":"104",
+          "location":"Street - 4",
+          "state":"TN",
+          "pincode":"20130",
+          "installedDate":"2021-10-19 19:36:35",
+          "openedOn":"2022-03-23 17:45:00",
+          "status":"UnLive"
+       },
+       {
+          "bank":"NCMS-HDFC",
+          "eventId":"205",
+          "sitename":"HDFC - 105",
+          "mcuid":"105",
+          "location":"Street - 5",
+          "state":"KN",
+          "pincode":"59000",
+          "installedDate":"2022-02-03 10:18:16",
+          "openedOn":"2022-03-23 17:45:00",
+          "status":"UnLive"
+       }
+    ]
+ }
